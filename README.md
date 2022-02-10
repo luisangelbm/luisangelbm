@@ -21,7 +21,7 @@ Here are some ideas to get you started:
  ```python
   class WhoAmI:
     user = 'Luis Ángel',
-	currently_learning = "Python",
+	currently_learning = ["JavaScript","Python"]
     fav_food="burguer",
 	hobbies = [
 				'Music',
