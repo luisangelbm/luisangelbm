@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 	
 	def Ambitions():
 		BecomeSoftwareEngineer()
-		DevOps()
+		FullStackDeveloper()
 		FinishMyProjects()
 	
  ```
